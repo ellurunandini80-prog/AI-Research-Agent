@@ -87,22 +87,22 @@ streamlit run main.py
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/01_Home_Page.png)
+![Home](screenshots/01_Home_Page.png.png)
 
 ### Upload PDF
-![Upload PDF](screenshots/02_PDF_Upload.png)
+![Upload PDF](screenshots/02_PDF_Upload.png.png)
 
 ### Document Indexed
-![Document Indexed](screenshots/03_Document_Indexed.png)
+![Document Indexed](screenshots/03_Document_Indexed.png.png)
 
 ### Enter Question
-![Question](screenshots/04_Question_Input.png)
+![Question](screenshots/04_Question_Input.png.png)
 
 ### Generated Answer
-![Answer](screenshots/05_Generated_Answer.png)
+![Answer](screenshots/05_Generated_Answer.png.png)
 
 ### Answer with Sources
-![Sources](screenshots/06_Answer_With_Sources.png)
+![Sources](screenshots/06_Answer_With_Sources.png.png)
 
 ## Author
 
