@@ -6,3 +6,6 @@ faiss-cpu
 google-generativeai
 numpy
 python-dotenv
+torch
+torchvision
+
