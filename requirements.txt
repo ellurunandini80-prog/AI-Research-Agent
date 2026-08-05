@@ -4,8 +4,7 @@ langchain-text-splitters
 sentence-transformers
 faiss-cpu
 google-generativeai
-numpy
 python-dotenv
-torch
-torchvision
+pandas
+numpy
 
