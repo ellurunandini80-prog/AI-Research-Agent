@@ -2,6 +2,8 @@
 
 An AI-powered research assistant that enables users to upload one or more PDF documents and ask questions in natural language. The application uses **Retrieval-Augmented Generation (RAG)**, **FAISS Vector Search**, **Sentence Transformers**, and **Google Gemini 3.5 Flash** to generate context-aware answers with source citations.
 
+**Live Demo:** [Try AI Research Agent](https://ai-research-agent-ly9rtjnw4cfu3aihtwfncv.streamlit.app/)
+
 ---
 
 ## Features
