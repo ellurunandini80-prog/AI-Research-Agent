@@ -16,7 +16,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 model_gemini = genai.GenerativeModel("gemini-3.5-flash")
 
 # UI
-st.title("🔬 AI Research Agent")
+st.title("⌬ AI Research Agent")
 st.caption("Analyze research papers,technical documents,and reports using RAG + Gemini + FAISS")
 
 # Sidebar
